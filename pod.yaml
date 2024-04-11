@@ -15,7 +15,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: loadbalancer-dep1
+  name: loadbalancer-dep11
 spec:
   replicas: 2
   selector:
